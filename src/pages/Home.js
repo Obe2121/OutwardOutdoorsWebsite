@@ -64,12 +64,6 @@ const Home = () => {
           <a href="https://www.jacobandsonsqualitymeats.com/" target="_blank" rel="noopener noreferrer">
           <img src={JAS} alt="JAS Button" className="JAS-image-button"/>
           </a>
-          <a href="https://harrison.osu.edu/" target="_blank" rel="noopener noreferrer">
-          <img src={FourH} alt="4H Button" className="JAS-image-button"/>
-          </a>
-          <a href="https://harrison.osu.edu/" target="_blank" rel="noopener noreferrer">
-          <img src={OSU} alt="JAS Button" className="JAS-image-button"/>
-          </a>
         </div>          
       </div>
     </div>
